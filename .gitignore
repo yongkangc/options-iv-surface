@@ -172,6 +172,9 @@ uv.lock
 plots/
 output/
 data/
+iv_surface_output/
+*.png
+*.html
 
 # OS specific files
 .DS_Store
